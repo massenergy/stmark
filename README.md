@@ -1,2 +1,2 @@
 # stmark
-st. amrk website deployment
+st. mark website deployment
